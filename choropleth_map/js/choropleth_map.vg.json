@@ -76,7 +76,7 @@
                "dx": 10, "xOffset": -63, "dy": 0, "align": "left"
       },
       "encoding": {
-          "text": {"value": ["Africa continent","has the most","countries with","adult mortality","rate over 300","cases per","1000 population"]},
+          "text": {"value": ["Africa continent","has the most","countries with","adult mortality","rate over 300","cases per 1000","population"]},
           "opacity": {
             "value": 0.025
           }
