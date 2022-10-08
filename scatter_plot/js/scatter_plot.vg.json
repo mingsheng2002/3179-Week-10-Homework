@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "An interactive scatter plot of global health statistics by country and year.",
+    "title": "Scatter Plot of BMI against Schooling Duration over Different Countries from Year 2000 to 2015",
     "data": {"url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/scatter_plot/js/Life%20Expectancy%20Data_scatterplot.json"},
     "width": 800,
     "height": 500,
